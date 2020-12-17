@@ -1,0 +1,36 @@
+body{
+  background-image: linear-gradient(to right top, #d16ba5, #ee7790, #fc8b7d, #fca66f, #f2c26d, #e1d274, #cde184, #b7ef9b, #9ff4af, #88f7c5, #71fadb, #5ffbf1);
+  text-align: center;
+}
+
+.Footer{
+  background-image: linear-gradient(to right top, #414040, #323131, #232323, #151515, #000000);
+  color: white;
+  border-radius: 1rem;
+ 
+}
+.NavBar{
+  border-radius: 1rem;
+  background-image: linear-gradient(to right top, #414040, #323131, #232323, #151515, #000000);
+}
+.navbargap{
+  padding: 1rem;
+  padding-bottom: 3rem;
+}
+
+.footergap{
+  padding-top: 5rem;
+  padding: 1rem;
+}
+.firsticon{
+margin-right: 10rem;
+}
+.secondicon{
+margin-left: 10rem;
+}
+.thirdicon{
+margin-right: 10rem;
+}
+.icons{
+  padding: 2rem;
+}
